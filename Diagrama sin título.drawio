@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T02:32:52.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="MtB3qkGa9krorQlQiA_o" version="20.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-19T02:34:24.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="9wT0Lg3I5QhiuxHbmU0t" version="20.3.2" type="github" pages="2">
   <diagram id="IcGA9fh2VYvcwu6_O1BU" name="Página-2">
     <mxGraphModel dx="5486" dy="3159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4109,7 +4109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5-xoSVet127_YHuKomHo-332" value="venta-salida" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="5-xoSVet127_YHuKomHo-1" vertex="1">
-          <mxGeometry x="400" y="-710" width="250" height="160" as="geometry" />
+          <mxGeometry x="400" y="-710" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="5-xoSVet127_YHuKomHo-333" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="5-xoSVet127_YHuKomHo-332" vertex="1">
           <mxGeometry y="30" width="250" height="40" as="geometry" />
@@ -5573,6 +5573,15 @@
         </mxCell>
         <mxCell id="mLR5r_sO-PCtNmlhh0eP-3" value="Fecha_entrada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5-xoSVet127_YHuKomHo-1">
           <mxGeometry x="1170" y="-485" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mLR5r_sO-PCtNmlhh0eP-4" value="Fecha_salida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5-xoSVet127_YHuKomHo-1">
+          <mxGeometry x="440" y="-580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mLR5r_sO-PCtNmlhh0eP-5" value="Nombre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5-xoSVet127_YHuKomHo-1">
+          <mxGeometry x="435" y="-555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mLR5r_sO-PCtNmlhh0eP-6" value="Cantidad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5-xoSVet127_YHuKomHo-1">
+          <mxGeometry x="440" y="-525" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
